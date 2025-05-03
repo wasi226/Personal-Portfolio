@@ -1,5 +1,5 @@
 
-import Wasilogo from'/src/assets/WasiLogo01.png'
+import Wasilogo from'/src/assets/Wasilogo01.png'
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 import { SiLeetcode } from "react-icons/si";
 const Navbar = () => {
