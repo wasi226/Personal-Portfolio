@@ -1,5 +1,5 @@
 
-import logo from'../assets/WasiLogo01.png'
+import Wasilogo from'../assets/WasiLogo01.png'
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 import { SiLeetcode } from "react-icons/si";
 const Navbar = () => {
@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className='flex items-center justify-between py-6'>
         <div className='flex flex-shrink-0 items-center '>
             <a href="/" aria-label='Home'>
-            <img src={logo} className='mx-2' width={100} height={70} alt="logo" />
+            <img src={Wasilogo} className='mx-2' width={100} height={70} alt="Wasilogo" />
             </a>
         </div>
         <div className='m-8 flex items-center justify-center gap-4 text-2xl text-white '>
