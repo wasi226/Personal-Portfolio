@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import profilePic from '../assets/WasiImageAi.png'
+import profilePic from '../assets/Developer.gif'
 import Resume from '../assets/WasiResume.pdf'
 import { HERO_CONTENT } from '../constants'
 import { motion } from 'framer-motion'
@@ -66,7 +66,7 @@ const Hero = () => {
               src={profilePic}
               alt="Wasi Haider"
               className='rounded-3xl shadow-2xl hover:scale-105 transition-all duration-500 hover:rotate-1 hover:shadow-[0_0_25px_5px_rgba(255,255,255,0.3)]'
-              width={350}
+              width={500}
               height={200}
               initial={{ scale: 0.8, rotate: -10, opacity: 0 }}
               animate={{ scale: 1, rotate: 0, opacity: 1 }}
