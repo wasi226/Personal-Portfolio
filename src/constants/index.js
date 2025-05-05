@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "2025 - Present",
     Organization: "Sheryians coding school",
     Certification: "Backend Development",
-    description: `Completed a basic cybersecurity course, learning key concepts in network security, encryption, and threat management to understand digital system protection.`,
+    description: `Backend development fascinates me—especially the power of Node.js, Express.js, and MongoDB in building real-world applications. I've mastered the basics and am continuously pushing forward, learning how to build secure, scalable, and efficient backend systems.`,
     technologies: ["Node.js", "Express.js", "MongoDB"],
   },
   {

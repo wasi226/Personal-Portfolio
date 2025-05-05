@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import profilePic from '../assets/Developer.gif'
-import Resume from '../assets/WasiResume.pdf'
+import Resume from '../assets/ResumeNew.pdf'
 import { HERO_CONTENT } from '../constants'
 import { motion } from 'framer-motion'
 
