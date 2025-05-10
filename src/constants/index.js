@@ -99,7 +99,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: " 🏡 Behind Jama Masjid Pelawal, Hazaribag, Jharkhand, India",
+  currentAddress:"49 C-sector, Indrapuri, Bhopal, Madhya Pradesh, India",
+  permanentAddress: " 🏡 HT39, Pelawal, Hazaribag, Jharkhand, India",
   phoneNo: " 📞 +91 9798 6748 32",
   email: "✉️ haiderwasi2263@gmail.com",
 };
